@@ -1,7 +1,5 @@
 ### hiya i'm sky!
 
-<a href="https://status.cafe/users/skylestia"><img src="https://status.cafe/users/skylestia/badge.png" alt="Status Cafe Profile" width="180"/></a>
-
 <!--
 Here are some ideas to get you started:
 -->
