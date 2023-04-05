@@ -7,10 +7,8 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on...
 
-  - [my website](https://skylestia.neocities.org/) (it needs some tweaks on mobile)
-  - [make-a-website](https://skylestia.github.io/make-a-website/)
-    - a collection of tools and guides regarding how and where to make and host a personal website
   - several essays about social media and AI
+  - pretty much anything that i think sounds fun, i'm pretty much always writing or drawing something
 
 - 🌱 I’m currently learning ...
 
